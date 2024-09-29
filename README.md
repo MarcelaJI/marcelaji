@@ -3,6 +3,7 @@
 Bienvenido(a) a mi Github. Actualmente soy estudiante de programación en 42 Madrid. Mis repositorios incluyen mis proyectos de 42 y proyectos personales. Aspirante a experta en seguridad informática(Ciberseguridad).
   
   *🌍 Madrid, España
+  
   *✉️ ingridjimenez113@gmail.com
 
 <!--
