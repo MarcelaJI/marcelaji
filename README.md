@@ -1,8 +1,9 @@
 ¡Hola! 👋 Mi nombre es Marcela y soy Desarrolladora Web.
 
 Bienvenido(a) a mi Github. Actualmente soy estudiante de programación en 42 Madrid. Mis repositorios incluyen mis proyectos de 42 y proyectos personales. Aspirante a experta en seguridad informática(Ciberseguridad).
-*🌍 Madrid, España
-*✉️ ingridjimenez113@gmail.com
+  
+  *🌍 Madrid, España
+  *✉️ ingridjimenez113@gmail.com
 
 <!--
 **MarcelaJI/marcelaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
