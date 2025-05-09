@@ -1,7 +1,7 @@
-<!-- Banner tipo dragón rojo -->
 <p align="center">
-  <img src="90911f55-534c-4d61-b69f-6266eced4725.png" alt="Red Team Banner" />
+  <img src="https://raw.githubusercontent.com/MarcelaJI/red-team-assets/main/90911f55-534c-4d61-b69f-6266eced4725.png" alt="Red Team Banner" />
 </p>
+
 
 <h1 align="center">¡Hola! 👋 Soy Marcela Jimenez</h1>
 <p align="center">🔴 Estudiante de Programación en <strong>42 Madrid</strong> | 🔥 Apasionada por el <strong>Red Team</strong> y la Ciberseguridad</p>
