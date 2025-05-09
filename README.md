@@ -1,4 +1,4 @@
-
+<!-- Banner tipo dragón rojo -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/kalkiDev/red-team-banner/main/dragon-banner-red.svg" alt="Red Team Banner" />
 </p>
