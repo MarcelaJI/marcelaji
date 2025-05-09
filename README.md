@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  <img src="https://www.svgrepo.com/show/353884/nmap.svg" height="40" />
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" height="40" />
 </p>
 
 ---
@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="mailto:ingridjimenez113@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tuusuario"><img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="(https://www.linkedin.com/in/marcela-jimenez-/)"><img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
