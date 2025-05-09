@@ -17,7 +17,7 @@
 
 ---
 
-### 🚀 Tecnologías y herramientas
+### 🛠 Tecnologías y herramientas
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
@@ -28,8 +28,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Virtualbox_logo.png/768px-Virtualbox_logo.png" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" height="40" />
 </p>
+
 
 ---
 
