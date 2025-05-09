@@ -1,6 +1,6 @@
 <!-- Banner tipo dragón rojo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/marcelaji/red-team-assets/main/dragon-fire-banner.svg" alt="Red Team Banner" />
+  <img src="[https://raw.githubusercontent.com/marcelaji/red-team-assets/main/dragon-fire-banner.svg](https://github.com/MarcelaJI/red-team-assets/blob/main/90911f55-534c-4d61-b69f-6266eced4725.png)" alt="Red Team Banner" />
 </p>
 
 <h1 align="center">¡Hola! 👋 Soy Marcela Jimenez</h1>
