@@ -13,7 +13,7 @@
 🎓 Actualmente estudio en [42 Madrid](https://42madrid.com)  
 🛡️ En formación para ser experta en Ciberseguridad (Red Team / Pentesting)  
 🐚 Me encanta programar en **C, Python, Bash**, y usar herramientas como **Docker, Nmap, Wireshark**  
-🐉 Fiel seguidora del espíritu de **Kalki**, el guerrero que lucha contra el caos digital
+🐉 Fiel seguidora del espíritu de **Kali**, el guerrero que lucha contra el caos digital
 
 ---
 
