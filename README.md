@@ -1,25 +1,68 @@
-¡Hola! 👋 Mi nombre es Marcela y soy Desarrolladora Web.
 
-Bienvenido(a) a mi Github. Actualmente soy estudiante de programación en 42 Madrid. Mis repositorios incluyen mis proyectos de 42 y proyectos personales. Aspirante a experta en seguridad informática(Ciberseguridad).
-  
-  *🌍 Madrid, España
-  
-  *✉️ ingridjimenez113@gmail.com
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kalkiDev/red-team-banner/main/dragon-banner-red.svg" alt="Red Team Banner" />
+</p>
 
-<!--
-**MarcelaJI/marcelaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">¡Hola! 👋 Soy Marcela Jimenez</h1>
+<p align="center">🔴 Estudiante de Programación en <strong>42 Madrid</strong> | 🔥 Apasionada por el <strong>Red Team</strong> y la Ciberseguridad</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Prono![ingjimen](https://github.com/user-attachments/assets/d739ee0f-e2a3-4286-985b-51763a3a5b92)
-![ingjimen](https://github.com/user-attachments/assets/8832f0d3-88aa-415f-8654-422aa616fdbf)
-uns: ...
-- ⚡ Fun fact: ...
--->
-[![ingjimen's 42 stats](https://badge.mediaplus.ma/greenbinary/ingjimen?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+### 🧠 Sobre mí
+
+🎓 Actualmente estudio en [42 Madrid](https://42madrid.com)  
+🛡️ En formación para ser experta en Ciberseguridad (Red Team / Pentesting)  
+🐚 Me encanta programar en **C, Python, Bash**, y usar herramientas como **Docker, Nmap, Wireshark**  
+🐉 Fiel seguidora del espíritu de **Kalki**, el guerrero que lucha contra el caos digital
+
+---
+
+### 🚀 Tecnologías y herramientas
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img src="https://www.svgrepo.com/show/353884/nmap.svg" height="40" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcelaJI&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelaJI&layout=compact&theme=radical" height="180"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MarcelaJI&theme=radical&no-frame=true&title=Commit,Issues,Stars,Followers,PullRequest" />
+</p>
+
+---
+
+### 💬 Cita favorita
+
+> "Hack the planet — porque el conocimiento no tiene límites."
+
+---
+
+### 📫 Contacto
+
+<p align="center">
+  <a href="mailto:ingridjimenez113@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tuusuario"><img src="https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+### 🔥 Red Team Mode: ON
+
+```bash
+sudo nmap -sS -Pn marcela.red
+
