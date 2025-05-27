@@ -8,6 +8,8 @@
 
 ---
 
+[![ingjimen's 42 stats](https://badge.mediaplus.ma/greenbinary/ingjimen?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 ### 🧠 Sobre mí
 
 🎓 Actualmente estudio en [42 Madrid](https://42madrid.com)  
