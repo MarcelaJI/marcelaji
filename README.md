@@ -44,7 +44,7 @@
   </a>
 
   <a href="https://www.coursera.org/account/accomplishments/verify/AAP9EKHPFGGL" target="_blank">
-    <img src="https://github.com/MarcelaJI/red-team-assets/raw/main/Captura%20de%20pantalla%202025-06-01%20171155.png" width="150" alt="Python Coursera Certificate" />
+    <img src="https://github.com/MarcelaJI/red-team-assets/raw/main/Captura%20de%20pantalla%202025-06-01%20171155.png" width="150" height="150" alt="Python Coursera Certificate" />
   </a>
 </p>
 
