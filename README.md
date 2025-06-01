@@ -50,6 +50,8 @@
   <img src="https://github.com/MarcelaJI/red-team-assets/raw/main/introduccion_al_hacking.png" width="180" height="150" alt="Introducción al Hacking Certificate" />
 
   <img src="https://github.com/MarcelaJI/red-team-assets/raw/main/Introduccion_a_linux.png" width="180" height="150" alt="Introducción a Linux Certificate" />
+
+  <img src="https://github.com/MarcelaJI/red-team-assets/raw/main/Certified_Web_Applications_Pentester.png" width="180" height="150" alt="Introducción a Linux Certificate" />
 </p>
 
 
