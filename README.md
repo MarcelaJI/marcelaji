@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/a0f0ba7b-e3af-491e-a087-8eee4f9f7780/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/edc0f1c1-cd8b-4f40-9252-5e246f61d4c8/image.png" alt="Cisco Certified Support Technician Networking" width="150" />
+    <img src="https://github.com/MarcelaJI/red-team-assets/raw/main/badges/cisco-cybersecurity.png" width="150" alt="Cisco Cybersecurity Badge" />
   </a>
 </p>
 
