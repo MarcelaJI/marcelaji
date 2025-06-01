@@ -40,9 +40,10 @@
 
 <p align="center">
   <a href="https://www.credly.com/badges/a0f0ba7b-e3af-491e-a087-8eee4f9f7780/public_url" target="_blank">
-    <img src="https://github.com/MarcelaJI/red-team-assets/raw/main/badges/cisco-cybersecurity.png" width="150" alt="Cisco Cybersecurity Badge" />
+    <img src="https://github.com/MarcelaJI/red-team-assets/raw/main/introduction-to-cybersecurity.png" width="150" alt="Cisco Cybersecurity Badge" />
   </a>
 </p>
+
 
 
 ### 📊 GitHub Stats
