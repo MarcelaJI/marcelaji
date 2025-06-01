@@ -42,6 +42,10 @@
   <a href="https://www.credly.com/badges/a0f0ba7b-e3af-491e-a087-8eee4f9f7780/public_url" target="_blank">
     <img src="https://github.com/MarcelaJI/red-team-assets/raw/main/introduction-to-cybersecurity.png" width="150" alt="Cisco Cybersecurity Badge" />
   </a>
+
+  <a href="https://www.coursera.org/account/accomplishments/verify/AAP9EKHPFGGL" target="_blank">
+    <img src="https://github.com/MarcelaJI/red-team-assets/raw/main/Captura%20de%20pantalla%202025-06-01%20171155.png" width="150" alt="Python Coursera Certificate" />
+  </a>
 </p>
 
 
