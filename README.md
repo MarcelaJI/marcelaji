@@ -36,7 +36,7 @@
 
 ---
 
-## 🎖️ My Badges
+## 🎖️ My Badges & Certifications
 
 <p align="center">
   <a href="https://www.credly.com/badges/a0f0ba7b-e3af-491e-a087-8eee4f9f7780/public_url" target="_blank">
@@ -44,8 +44,12 @@
   </a>
 
   <a href="https://www.coursera.org/account/accomplishments/verify/AAP9EKHPFGGL" target="_blank">
-    <img src="https://github.com/MarcelaJI/red-team-assets/raw/main/Captura%20de%20pantalla%202025-06-01%20171155.png" width="150" height="150" alt="Python Coursera Certificate" />
+    <img src="https://github.com/MarcelaJI/red-team-assets/raw/main/Captura%20de%20pantalla%202025-06-01%20171155.png" width="180" height="150" alt="Python Coursera Certificate" />
   </a>
+
+  <img src="https://github.com/MarcelaJI/red-team-assets/raw/main/introduccion_al_hacking.png" width="180" height="150" alt="Introducción al Hacking Certificate" />
+
+  <img src="https://github.com/MarcelaJI/red-team-assets/raw/main/Introduccion_a_linux.png" width="180" height="150" alt="Introducción a Linux Certificate" />
 </p>
 
 
