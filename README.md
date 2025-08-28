@@ -21,17 +21,19 @@
 
 ### 🛠 Tecnologías y herramientas
 
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-  <img src="https://nmap.org/images/nmap-logo-256x256.png" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" style="display:inline-block; margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="display:inline-block; margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" style="display:inline-block; margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" style="display:inline-block; margin: 0 10px;" />
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" height="40" style="display:inline-block; margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" style="display:inline-block; margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" style="display:inline-block; margin: 0 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" style="display:inline-block; margin: 0 10px;" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" height="40" style="display:inline-block; margin: 0 10px;" />
 </p>
+
 
 
 ---
