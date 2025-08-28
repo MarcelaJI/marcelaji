@@ -41,7 +41,7 @@
 <p align="center">
 
   <a href="https://www.credly.com/badges/a0f0ba7b-e3af-491e-a087-8eee4f9f7780/public_url" target="_blank">
-    <img src="https://github.com/MarcelaJI/red-team-assets/raw/main/eJPT.png" width="80" alt="Cisco Cybersecurity Badge" />
+    <img src="https://github.com/MarcelaJI/red-team-assets/raw/main/eJPT.png" width="100" height="100" alt="eJPTv2 Certification" />
   </a>
   <a href="https://www.credly.com/badges/a0f0ba7b-e3af-491e-a087-8eee4f9f7780/public_url" target="_blank">
     <img src="https://github.com/MarcelaJI/red-team-assets/raw/main/introduction-to-cybersecurity.png" width="80" alt="Cisco Cybersecurity Badge" />
