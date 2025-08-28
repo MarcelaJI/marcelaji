@@ -30,7 +30,7 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="30" height="30"/></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="30" height="30"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" width="60" height="40"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" width="60" height="80"/></a>
 </p>
 
 
